@@ -33,11 +33,11 @@ Direct data on fixed-rate and variable-rate loan shares are not available for th
 
 
 ## Project Structure
-Data/        Cleaned datasets used in the analysis
-Python/      Data preprocessing scripts
-R/           R scripts for analysis and visualisation
-Graphs/      Output figures used in the report
-Report/      Final report document
+- Data/        Cleaned datasets used in the analysis
+- Python/      Data preprocessing scripts
+- R/           R scripts for analysis and visualisation
+- Graphs/      Output figures used in the report
+- Report/      Final report document
 
 ## Tools
 - Python (pandas) for data preprocessing
